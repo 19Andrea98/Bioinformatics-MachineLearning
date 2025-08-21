@@ -12,3 +12,6 @@ This notebook addresses the following tasks:
 6. Remove invalid sequences (e.g., characters outside the standard amino-acid alphabet).
 
 **Goal:** produce a clean dataset containing `Phage_ID`, protein `Sequence`, and relevant metadata for downstream analysis.
+
+## Notebook 003
+"Caudovirales is the most abundant phage class across all datasets available on PhagesDB. To balance this distribution, I developed this code to specifically collect the Inoviridae and Microviridae classes from all datasets downloadable on PhagesDB. This step was performed after the pre-processing stage (Notebook 001). The collected classes were then merged with the PhagesDB datasetv - a choice made purely for personal preference.
