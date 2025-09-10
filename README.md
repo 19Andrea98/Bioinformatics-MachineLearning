@@ -1,6 +1,10 @@
 In the `Notebook` folder you’ll find the code I use to preprocess protein sequences.  
 The examples focus on phage protein sequences from datasets downloadable via **PhageScope**, but the code should be useful for other applications as well.
 
+In the `Class` foleder you'll find the classes I used in some of my notebooks.
+
+<< Note that this directory is not fully completed yet >>
+
 ## Notebook 001
 This notebook addresses the following tasks:
 
