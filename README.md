@@ -17,7 +17,7 @@ This notebook addresses the following tasks:
 **Goal:** produce a clean dataset containing `Phage_ID`, protein `Sequence`, and relevant metadata for downstream analysis.
 
 ## Notebook 002
-Caudovirales is the most abundant phage class across all datasets available on PhagesDB. To balance this distribution, I developed this code to specifically collect the Inoviridae and Microviridae classes from all datasets downloadable on PhagesDB. This step was performed after the pre-processing stage (Notebook 001). The collected classes were then merged with the PhagesDB dataset - a choice made purely for personal preference.
+Caudovirales is the most abundant phage class across all datasets available on PhageScope. To balance this distribution, I developed this code to specifically collect the Inoviridae and Microviridae classes from all datasets downloadable on PhageScope. This step was performed after the pre-processing stage (Notebook 001). The collected classes were then merged with the PhagesDB dataset - a choice made purely for personal preference.
 
 ## Dendrogram Class
 The "Dendrogram" class helps retrieve the sample indices for the n clusters obtained by cutting a hierarchical clustering dendrogram. In particular, get_clusters method of the class can be used to create a dictionary of indeces belonging to each cluster. This is useful if you want to plot only the points belonging to a selected cluster.
