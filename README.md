@@ -4,7 +4,7 @@ In the `Class` foleder you'll find the classes I used in some of my notebooks.
 
 !! Note that this directory is not fully completed yet !!
 
-## Notebook 001 & Notebook 002
+## Notebook 001_Raw_datasets & Notebook 002_Descriptive analysis and final dataset
 This notebook addresses the following tasks:
 
 1. Decompress `.tar.gz` archives to extract `.fasta` files.  
@@ -16,7 +16,7 @@ This notebook addresses the following tasks:
 
 **Goal:** produce a clean dataset containing `Phage_ID`, protein `Sequence`, and relevant metadata for downstream analysis.
 
-## Notebook 002
+## Notebook 002_Mixed dataset
 Caudovirales is the most abundant phage class across all datasets available on PhageScope. To balance this distribution, I developed this code to specifically collect the Inoviridae and Microviridae classes from all datasets downloadable on PhageScope. This step was performed after the pre-processing stage (Notebook 001). The collected classes were then merged with the PhagesDB dataset - a choice made purely for personal preference.
 
 ## Dendrogram Class
