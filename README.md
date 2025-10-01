@@ -4,7 +4,7 @@ In the `Class` foleder you'll find the classes I used in some of my notebooks.
 
 !! Note that this directory is not fully completed yet !!
 
-## Notebook 001
+## Notebook 001 & Notebook 002
 This notebook addresses the following tasks:
 
 1. Decompress `.tar.gz` archives to extract `.fasta` files.  
