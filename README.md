@@ -5,7 +5,7 @@ In the `Class` foleder you'll find the classes I used in some of my notebooks.
 !! Note that this directory is not fully completed yet !!
 
 ## Notebook 001_Raw_datasets & Notebook 002_Descriptive analysis and final dataset
-This notebook addresses the following tasks:
+These notebooks addresses the following tasks:
 
 1. Decompress `.tar.gz` archives to extract `.fasta` files.  
 2. If multiple `.fasta` files are produced, merge them into a single consolidated `.fasta`.  
